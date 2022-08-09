@@ -1,0 +1,18 @@
+.cool {
+  background-color: #fab7e7;
+  font-family: verdana, 'dejavu-sans', sans-serif;
+}
+
+#an-id {
+  color: blue;
+  font-size: 36px;
+}
+
+.cool.cooler {
+  font-size: 24px;
+}
+
+#other-id {
+  background-color: #bdfe87;
+  font-weight: bold;
+}
